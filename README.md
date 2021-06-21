@@ -3,8 +3,9 @@
 Vous trouverez ici une application de saisie d'obervations de la qualité des sols.
 Elle a été réalisée dans le cadre du projet TI Dijon Métropole
 L'application a été conçue pour fonctionner sous Qfield.
-Les données saisies sont stockées dans le fichier data.gpkg au format [geopackage](https://www.geopackage.org/)
+Les données saisies sont stockées dans le fichier data.gpkg au format [geopackage](https://www.geopackage.org/). 
 L'application permet d'associer des prises de vues à certaines description.
+Une documentation est disponible <a href="doc/saisie_donnees_BiosolMobile.pdf">ici</a>
 
 <img align="right" src="screenshots/selecteur.png" height="192"/>
 
